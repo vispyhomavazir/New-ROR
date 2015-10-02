@@ -3,5 +3,5 @@ Hi Viewers,
 
 Welcome to my New ROR Application. 
 
-Regards 
+by
 Vispy.Homavazir
