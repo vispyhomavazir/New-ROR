@@ -1,3 +1,7 @@
 #ROR
-This is my New App I am working on 
+Hi Viewers,
+
+Welcome to my New ROR Application. 
+
+Regards 
 Vispy.Homavazir
